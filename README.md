@@ -1,2 +1,2 @@
-# Study_Gp
+# Study_Grp
 Sigma study group resources
